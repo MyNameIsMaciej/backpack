@@ -1,0 +1,15 @@
+gitara 1500 10
+laptop 3000 15
+stereo 2000 5
+telefon 3000 1
+myszka 50 1
+tv 6000 20
+kanapka 500 5
+lopata 750 5
+sluchawki 300 1
+smoczek 400 4
+kielbasa 1000 5
+sok 800 8
+dywan 900 2
+cegla 20 5
+
